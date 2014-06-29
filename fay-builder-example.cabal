@@ -15,7 +15,7 @@ cabal-version:       >=1.10
 data-files:          fay-builder-example.cabal, js/*.js
 
 x-fay-packages:      fay-jquery, fay-text
-x-fay-root-modules:  Index, Misc
+x-fay-root-modules:  Index
 x-fay-include-paths: src
 x-fay-output-dir:    data/js
 x-fay-source-dir:    fay
